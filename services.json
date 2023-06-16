@@ -1,0 +1,8 @@
+{
+    "services": [
+        "ivstore",
+        "openvpn",
+        "overheadcounting",
+        "ivsflex"
+    ]
+}
