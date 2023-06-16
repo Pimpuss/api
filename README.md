@@ -6,6 +6,6 @@
 
 ### [routes](#routes-1)
 
-- [`/services`](https://pimpuss.github.io/api/services.json)
+- [`/services`](https://pimpuss.github.io/api/api/services.json)
 
 ---
